@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnirudhAtole
-- 👀 I’m interested in Data science
+- 👀 I’m a enthusiastic techie , a good story teller and data analytical padwan https://github.com/zachflauaus/emoji-repo/raw/master/images/starwars-baby-yoda.png
 - 🌱 I’m currently learning Machine learning 
       and trying my hands on deep learning
 
