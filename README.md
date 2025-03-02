@@ -2,7 +2,7 @@ Hi there 👋
 
 
 
-I'm a Back End Developer with experience in building scalable and robust web applications. I specialize in designing and implementing APIs, developing server-side logic, and integrating with third-party services. My core skills include proficiency in programming languages such as Python, Javasccript, and Node.js, as well as working with databases such as SQL and NoSQL.
+I'm a Back End Developer with experience in building scalable and robust web applications. I specialize in designing and implementing APIs, developing server-side logic, and integrating with third-party services. My core skills include proficiency in programming languages such as Python, Javascript, and Node.js, as well as working with databases such as SQL and NoSQL.
 
 I'm passionate about creating high-performance applications that deliver a great user experience. I love working in a team and collaborating with front-end developers to build end-to-end solutions.
 
