@@ -1,32 +1,20 @@
 Hi there 👋
 
+I'm a **Software Engineer (Backend | AI | IAM)** with experience building scalable systems, enterprise integrations, and intelligent automation workflows. I specialize in designing APIs, developing robust server-side architectures, and integrating with third-party platforms.
 
+My core stack includes **Node.js, TypeScript, Python, and Golang**, along with experience in **LLMs, agentic workflows, and identity systems (OAuth2, SSO, SCIM)**. I’ve worked on real-world systems involving automation, conversational AI, and high-performance backend services.
 
-I'm a Back End Developer with experience in building scalable and robust web applications. I specialize in designing and implementing APIs, developing server-side logic, and integrating with third-party services. My core skills include proficiency in programming languages such as Python, Javascript, and Node.js, as well as working with databases such as SQL and NoSQL.
+🚀 **What I’m working on...**
 
-I'm passionate about creating high-performance applications that deliver a great user experience. I love working in a team and collaborating with front-end developers to build end-to-end solutions.
+* Building scalable REST APIs with Node.js and Express
+* Exploring AI-driven workflows and backend automation
+* Optimizing database performance and system reliability
 
-🔭 I’m currently working on...
-Building RESTful APIs with Node.js and Express.
-Optimizing database performance using SQL .
+🌱 **Currently learning...**
 
+* Cloud-native systems (Docker, Kubernetes)
+* Systems programming with **Rust**
+* Advanced backend architecture & distributed systems
 
-
-🌱 I’m currently learning...
-Cloud computing technologies such as Kubernetes and  
-New programming languages and frameworks.
-
-
-📫 How to reach me...
-Connect with me on LinkedIn.
-Check out my portfolio for more information about my projects and experience.
-Shoot me an email at your-email-address.
-
-
-⚡ Fun fact...
-I enjoy mostly staying at my place and play games on my leisure time , but i do get out ocassionaly disconnecting myself from to gain solitude .
-
-
-
-
-
+⚡ **Fun fact...**
+I enjoy quiet time, gaming, and occasionally disconnecting to reset and recharge.
