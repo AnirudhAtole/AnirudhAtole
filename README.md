@@ -14,7 +14,7 @@ I design and build backend systems that are reliable, scalable, and intelligent.
 - Working on IAM & integrations at **Aquera Labs** — enterprise provisioning, JML workflows, SCIM connectors
 - Previously built **Genie AI** (voice ecommerce assistant) and **Kisan AI** at StoreHippo
 - Reduced manual ops by 60% with WhatsApp automation; improved DB perf by 50%
-- Learning **Rust**, **Kubernetes**, and cloud-native architecture
+- Learning **Golang**, **Kubernetes**, and cloud-native architecture
 
 ---
 
